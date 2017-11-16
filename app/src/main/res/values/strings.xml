@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E-Voting</string>
+    <string name="profile">PROFILE</string>
+
+    <string name="feed">NEWS FEED</string>
+
+    <string name="activity">RESULTS</string>
+    <string name="settings">SETTINGS</string>
+</resources>
