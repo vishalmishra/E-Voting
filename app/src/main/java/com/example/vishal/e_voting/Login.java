@@ -23,7 +23,7 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 import java.util.Map;
-
+// Login function
 public class Login extends AppCompatActivity {
 
     TextView textView;
